@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lissage01
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web programming 
+- 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on project based on web developpement
 - 📫 You can reach me on lissage01 github, lissage08@gmail.com or Lissage Christaldo On facebook
 
